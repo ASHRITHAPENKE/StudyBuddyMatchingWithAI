@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "properties": {
+    "student_id": {
+      "type": "string"
+    },
+    "goal": {
+      "type": "string"
+    },
+    "preferred_study_time": {
+      "type": "string"
+    },
+    "study_type": {
+      "type": "string"
+    },
+    "personality": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "student_id",
+    "goal",
+    "preferred_study_time",
+    "study_type",
+    "personality"
+  ]
+}

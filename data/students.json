@@ -1,0 +1,512 @@
+[
+  {
+    "student_id": "stu_1000",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "evening",
+    "study_type": "auditory",
+    "personality": [
+      "curious",
+      "extrovert"
+    ]
+  },
+  {
+    "student_id": "stu_1001",
+    "goal": "Ace final year project",
+    "preferred_study_time": "early_morning",
+    "study_type": "reading",
+    "personality": [
+      "analytical",
+      "curious"
+    ]
+  },
+  {
+    "student_id": "stu_1002",
+    "goal": "Learn AI",
+    "preferred_study_time": "afternoon",
+    "study_type": "visual",
+    "personality": [
+      "analytical",
+      "introvert"
+    ]
+  },
+  {
+    "student_id": "stu_1003",
+    "goal": "Get a software internship",
+    "preferred_study_time": "evening",
+    "study_type": "auditory",
+    "personality": [
+      "collaborative",
+      "analytical"
+    ]
+  },
+  {
+    "student_id": "stu_1004",
+    "goal": "Learn AI",
+    "preferred_study_time": "evening",
+    "study_type": "reading",
+    "personality": [
+      "extrovert",
+      "introvert"
+    ]
+  },
+  {
+    "student_id": "stu_1234",
+    "goal": "Learn AI",
+    "preferred_study_time": "evening",
+    "study_type": "reading",
+    "personality": [
+      "extrovert",
+      "introvert"
+    ]
+  },
+  {
+    "student_id": "stu_1005",
+    "goal": "Learn AI",
+    "preferred_study_time": "night",
+    "study_type": "visual",
+    "personality": [
+      "introvert",
+      "collaborative"
+    ]
+  },
+  {
+    "student_id": "stu_1006",
+    "goal": "Ace final year project",
+    "preferred_study_time": "evening",
+    "study_type": "kinesthetic",
+    "personality": [
+      "adaptive",
+      "extrovert"
+    ]
+  },
+  {
+    "student_id": "stu_1007",
+    "goal": "Get a software internship",
+    "preferred_study_time": "late_night",
+    "study_type": "auditory",
+    "personality": [
+      "focused",
+      "adaptive"
+    ]
+  },
+  {
+    "student_id": "stu_1008",
+    "goal": "Learn AI",
+    "preferred_study_time": "evening",
+    "study_type": "visual",
+    "personality": [
+      "collaborative",
+      "adaptive"
+    ]
+  },
+  {
+    "student_id": "stu_1009",
+    "goal": "Ace final year project",
+    "preferred_study_time": "late_night",
+    "study_type": "visual",
+    "personality": [
+      "analytical",
+      "curious"
+    ]
+  },
+  {
+    "student_id": "stu_1010",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "early_morning",
+    "study_type": "kinesthetic",
+    "personality": [
+      "introvert",
+      "focused"
+    ]
+  },
+  {
+    "student_id": "stu_1011",
+    "goal": "Learn AI",
+    "preferred_study_time": "evening",
+    "study_type": "visual",
+    "personality": [
+      "extrovert",
+      "curious"
+    ]
+  },
+  {
+    "student_id": "stu_1012",
+    "goal": "Learn AI",
+    "preferred_study_time": "late_night",
+    "study_type": "auditory",
+    "personality": [
+      "curious",
+      "analytical"
+    ]
+  },
+  {
+    "student_id": "stu_1013",
+    "goal": "Ace final year project",
+    "preferred_study_time": "late_night",
+    "study_type": "reading",
+    "personality": [
+      "adaptive",
+      "focused"
+    ]
+  },
+  {
+    "student_id": "stu_1014",
+    "goal": "Get a software internship",
+    "preferred_study_time": "afternoon",
+    "study_type": "reading",
+    "personality": [
+      "curious",
+      "focused"
+    ]
+  },
+  {
+    "student_id": "stu_1015",
+    "goal": "Get a software internship",
+    "preferred_study_time": "early_morning",
+    "study_type": "visual",
+    "personality": [
+      "analytical",
+      "introvert"
+    ]
+  },
+  {
+    "student_id": "stu_1016",
+    "goal": "Learn AI",
+    "preferred_study_time": "early_morning",
+    "study_type": "visual",
+    "personality": [
+      "collaborative",
+      "extrovert"
+    ]
+  },
+  {
+    "student_id": "stu_1017",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "evening",
+    "study_type": "visual",
+    "personality": [
+      "focused",
+      "analytical"
+    ]
+  },
+  {
+    "student_id": "stu_1018",
+    "goal": "Master Data Science",
+    "preferred_study_time": "afternoon",
+    "study_type": "reading",
+    "personality": [
+      "introvert",
+      "analytical"
+    ]
+  },
+  {
+    "student_id": "stu_1019",
+    "goal": "Master Data Science",
+    "preferred_study_time": "evening",
+    "study_type": "reading",
+    "personality": [
+      "focused",
+      "adaptive"
+    ]
+  },
+  {
+    "student_id": "stu_1020",
+    "goal": "Get a software internship",
+    "preferred_study_time": "evening",
+    "study_type": "reading",
+    "personality": [
+      "analytical",
+      "adaptive"
+    ]
+  },
+  {
+    "student_id": "stu_1021",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "early_morning",
+    "study_type": "visual",
+    "personality": [
+      "introvert",
+      "collaborative"
+    ]
+  },
+  {
+    "student_id": "stu_1022",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "late_night",
+    "study_type": "reading",
+    "personality": [
+      "collaborative",
+      "focused"
+    ]
+  },
+  {
+    "student_id": "stu_1023",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "late_night",
+    "study_type": "kinesthetic",
+    "personality": [
+      "extrovert",
+      "curious"
+    ]
+  },
+  {
+    "student_id": "stu_1024",
+    "goal": "Get a software internship",
+    "preferred_study_time": "evening",
+    "study_type": "kinesthetic",
+    "personality": [
+      "adaptive",
+      "focused"
+    ]
+  },
+  {
+    "student_id": "stu_1025",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "afternoon",
+    "study_type": "visual",
+    "personality": [
+      "focused",
+      "extrovert"
+    ]
+  },
+  {
+    "student_id": "stu_1026",
+    "goal": "Get a software internship",
+    "preferred_study_time": "afternoon",
+    "study_type": "kinesthetic",
+    "personality": [
+      "curious",
+      "analytical"
+    ]
+  },
+  {
+    "student_id": "stu_1027",
+    "goal": "Master Data Science",
+    "preferred_study_time": "early_morning",
+    "study_type": "kinesthetic",
+    "personality": [
+      "analytical",
+      "introvert"
+    ]
+  },
+  {
+    "student_id": "stu_1028",
+    "goal": "Master Data Science",
+    "preferred_study_time": "late_night",
+    "study_type": "auditory",
+    "personality": [
+      "collaborative",
+      "analytical"
+    ]
+  },
+  {
+    "student_id": "stu_1029",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "evening",
+    "study_type": "visual",
+    "personality": [
+      "curious",
+      "collaborative"
+    ]
+  },
+  {
+    "student_id": "stu_1030",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "early_morning",
+    "study_type": "auditory",
+    "personality": [
+      "extrovert",
+      "adaptive"
+    ]
+  },
+  {
+    "student_id": "stu_1031",
+    "goal": "Ace final year project",
+    "preferred_study_time": "evening",
+    "study_type": "visual",
+    "personality": [
+      "collaborative",
+      "analytical"
+    ]
+  },
+  {
+    "student_id": "stu_1032",
+    "goal": "Get a software internship",
+    "preferred_study_time": "late_night",
+    "study_type": "kinesthetic",
+    "personality": [
+      "adaptive",
+      "focused"
+    ]
+  },
+  {
+    "student_id": "stu_1033",
+    "goal": "Master Data Science",
+    "preferred_study_time": "early_morning",
+    "study_type": "visual",
+    "personality": [
+      "introvert",
+      "adaptive"
+    ]
+  },
+  {
+    "student_id": "stu_1034",
+    "goal": "Get a software internship",
+    "preferred_study_time": "afternoon",
+    "study_type": "auditory",
+    "personality": [
+      "collaborative",
+      "adaptive"
+    ]
+  },
+  {
+    "student_id": "stu_1035",
+    "goal": "Learn AI",
+    "preferred_study_time": "afternoon",
+    "study_type": "auditory",
+    "personality": [
+      "adaptive",
+      "analytical"
+    ]
+  },
+  {
+    "student_id": "stu_1036",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "early_morning",
+    "study_type": "reading",
+    "personality": [
+      "introvert",
+      "extrovert"
+    ]
+  },
+  {
+    "student_id": "stu_1037",
+    "goal": "Learn AI",
+    "preferred_study_time": "afternoon",
+    "study_type": "reading",
+    "personality": [
+      "focused",
+      "introvert"
+    ]
+  },
+  {
+    "student_id": "stu_1038",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "late_night",
+    "study_type": "reading",
+    "personality": [
+      "curious",
+      "introvert"
+    ]
+  },
+  {
+    "student_id": "stu_1039",
+    "goal": "Ace final year project",
+    "preferred_study_time": "evening",
+    "study_type": "visual",
+    "personality": [
+      "focused",
+      "curious"
+    ]
+  },
+  {
+    "student_id": "stu_1040",
+    "goal": "Master Data Science",
+    "preferred_study_time": "late_night",
+    "study_type": "auditory",
+    "personality": [
+      "extrovert",
+      "collaborative"
+    ]
+  },
+  {
+    "student_id": "stu_1041",
+    "goal": "Ace final year project",
+    "preferred_study_time": "evening",
+    "study_type": "auditory",
+    "personality": [
+      "collaborative",
+      "extrovert"
+    ]
+  },
+  {
+    "student_id": "stu_1042",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "late_night",
+    "study_type": "kinesthetic",
+    "personality": [
+      "collaborative",
+      "adaptive"
+    ]
+  },
+  {
+    "student_id": "stu_1043",
+    "goal": "Ace final year project",
+    "preferred_study_time": "late_night",
+    "study_type": "reading",
+    "personality": [
+      "introvert",
+      "focused"
+    ]
+  },
+  {
+    "student_id": "stu_1044",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "late_night",
+    "study_type": "auditory",
+    "personality": [
+      "analytical",
+      "curious"
+    ]
+  },
+  {
+    "student_id": "stu_1045",
+    "goal": "Get a software internship",
+    "preferred_study_time": "evening",
+    "study_type": "kinesthetic",
+    "personality": [
+      "focused",
+      "curious"
+    ]
+  },
+  {
+    "student_id": "stu_1046",
+    "goal": "Learn AI",
+    "preferred_study_time": "late_night",
+    "study_type": "auditory",
+    "personality": [
+      "collaborative",
+      "introvert"
+    ]
+  },
+  {
+    "student_id": "stu_1047",
+    "goal": "Learn AI",
+    "preferred_study_time": "late_night",
+    "study_type": "kinesthetic",
+    "personality": [
+      "focused",
+      "adaptive"
+    ]
+  },
+  {
+    "student_id": "stu_1048",
+    "goal": "Ace final year project",
+    "preferred_study_time": "late_night",
+    "study_type": "kinesthetic",
+    "personality": [
+      "curious",
+      "focused"
+    ]
+  },
+  {
+    "student_id": "stu_1049",
+    "goal": "Crack GATE 2025",
+    "preferred_study_time": "early_morning",
+    "study_type": "reading",
+    "personality": [
+      "collaborative",
+      "focused"
+    ]
+  }
+]
